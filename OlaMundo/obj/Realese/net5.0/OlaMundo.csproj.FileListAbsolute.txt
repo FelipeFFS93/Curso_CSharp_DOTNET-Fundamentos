@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OlaMundo\bin\Realese\net5.0\OlaMundo.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OlaMundo\bin\Realese\net5.0\OlaMundo.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OlaMundo\bin\Realese\net5.0\OlaMundo.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OlaMundo\bin\Realese\net5.0\OlaMundo.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OlaMundo\bin\Realese\net5.0\OlaMundo.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OlaMundo\bin\Realese\net5.0\ref\OlaMundo.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OlaMundo\bin\Realese\net5.0\OlaMundo.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OlaMundo\obj\Realese\net5.0\OlaMundo.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OlaMundo\obj\Realese\net5.0\OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OlaMundo\obj\Realese\net5.0\OlaMundo.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OlaMundo\obj\Realese\net5.0\OlaMundo.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OlaMundo\obj\Realese\net5.0\OlaMundo.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OlaMundo\obj\Realese\net5.0\OlaMundo.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OlaMundo\obj\Realese\net5.0\ref\OlaMundo.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OlaMundo\obj\Realese\net5.0\OlaMundo.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OlaMundo\obj\Realese\net5.0\OlaMundo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Metodos\bin\Debug\net5.0\Metodos.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Metodos\bin\Debug\net5.0\Metodos.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Metodos\bin\Debug\net5.0\Metodos.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Metodos\bin\Debug\net5.0\Metodos.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Metodos\bin\Debug\net5.0\Metodos.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Metodos\bin\Debug\net5.0\ref\Metodos.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Metodos\bin\Debug\net5.0\Metodos.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Metodos\obj\Debug\net5.0\Metodos.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Metodos\obj\Debug\net5.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Metodos\obj\Debug\net5.0\Metodos.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Metodos\obj\Debug\net5.0\Metodos.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Metodos\obj\Debug\net5.0\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Metodos\obj\Debug\net5.0\Metodos.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Metodos\obj\Debug\net5.0\ref\Metodos.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Metodos\obj\Debug\net5.0\Metodos.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Metodos\obj\Debug\net5.0\Metodos.genruntimeconfig.cache

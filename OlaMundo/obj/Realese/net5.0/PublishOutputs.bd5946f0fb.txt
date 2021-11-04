@@ -1,0 +1,5 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OlaMundo\bin\Realese\net5.0\publish\OlaMundo.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OlaMundo\bin\Realese\net5.0\publish\OlaMundo.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OlaMundo\bin\Realese\net5.0\publish\OlaMundo.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OlaMundo\bin\Realese\net5.0\publish\OlaMundo.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OlaMundo\bin\Realese\net5.0\publish\OlaMundo.pdb

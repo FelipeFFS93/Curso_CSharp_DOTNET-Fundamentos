@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\TrabalharComInteiros\bin\Debug\net5.0\TrabalharComInteiros.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\TrabalharComInteiros\bin\Debug\net5.0\TrabalharComInteiros.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\TrabalharComInteiros\bin\Debug\net5.0\TrabalharComInteiros.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\TrabalharComInteiros\bin\Debug\net5.0\TrabalharComInteiros.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\TrabalharComInteiros\bin\Debug\net5.0\TrabalharComInteiros.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\TrabalharComInteiros\bin\Debug\net5.0\ref\TrabalharComInteiros.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\TrabalharComInteiros\bin\Debug\net5.0\TrabalharComInteiros.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\TrabalharComInteiros\obj\Debug\net5.0\TrabalharComInteiros.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\TrabalharComInteiros\obj\Debug\net5.0\TrabalharComInteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\TrabalharComInteiros\obj\Debug\net5.0\TrabalharComInteiros.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\TrabalharComInteiros\obj\Debug\net5.0\TrabalharComInteiros.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\TrabalharComInteiros\obj\Debug\net5.0\TrabalharComInteiros.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\TrabalharComInteiros\obj\Debug\net5.0\TrabalharComInteiros.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\TrabalharComInteiros\obj\Debug\net5.0\ref\TrabalharComInteiros.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\TrabalharComInteiros\obj\Debug\net5.0\TrabalharComInteiros.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\TrabalharComInteiros\obj\Debug\net5.0\TrabalharComInteiros.genruntimeconfig.cache

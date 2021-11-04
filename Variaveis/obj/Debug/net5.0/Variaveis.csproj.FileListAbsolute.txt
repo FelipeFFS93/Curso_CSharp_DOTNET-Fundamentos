@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Variaveis\bin\Debug\net5.0\Variaveis.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Variaveis\bin\Debug\net5.0\Variaveis.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Variaveis\bin\Debug\net5.0\Variaveis.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Variaveis\bin\Debug\net5.0\Variaveis.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Variaveis\bin\Debug\net5.0\Variaveis.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Variaveis\bin\Debug\net5.0\ref\Variaveis.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Variaveis\bin\Debug\net5.0\Variaveis.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Variaveis\obj\Debug\net5.0\Variaveis.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Variaveis\obj\Debug\net5.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Variaveis\obj\Debug\net5.0\Variaveis.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Variaveis\obj\Debug\net5.0\Variaveis.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Variaveis\obj\Debug\net5.0\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Variaveis\obj\Debug\net5.0\Variaveis.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Variaveis\obj\Debug\net5.0\ref\Variaveis.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Variaveis\obj\Debug\net5.0\Variaveis.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Variaveis\obj\Debug\net5.0\Variaveis.genruntimeconfig.cache

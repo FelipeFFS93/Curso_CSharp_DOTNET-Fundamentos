@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Armazenamentos\bin\Debug\net5.0\Armazenamentos.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Armazenamentos\bin\Debug\net5.0\Armazenamentos.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Armazenamentos\bin\Debug\net5.0\Armazenamentos.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Armazenamentos\bin\Debug\net5.0\Armazenamentos.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Armazenamentos\bin\Debug\net5.0\Armazenamentos.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Armazenamentos\bin\Debug\net5.0\ref\Armazenamentos.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Armazenamentos\bin\Debug\net5.0\Armazenamentos.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Armazenamentos\obj\Debug\net5.0\Armazenamentos.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Armazenamentos\obj\Debug\net5.0\Armazenamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Armazenamentos\obj\Debug\net5.0\Armazenamentos.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Armazenamentos\obj\Debug\net5.0\Armazenamentos.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Armazenamentos\obj\Debug\net5.0\Armazenamentos.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Armazenamentos\obj\Debug\net5.0\Armazenamentos.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Armazenamentos\obj\Debug\net5.0\ref\Armazenamentos.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Armazenamentos\obj\Debug\net5.0\Armazenamentos.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Armazenamentos\obj\Debug\net5.0\Armazenamentos.genruntimeconfig.cache

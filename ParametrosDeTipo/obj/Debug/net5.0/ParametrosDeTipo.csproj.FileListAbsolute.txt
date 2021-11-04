@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ParametrosDeTipo\obj\Debug\net5.0\ParametrosDeTipo.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ParametrosDeTipo\obj\Debug\net5.0\ParametrosDeTipo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ParametrosDeTipo\obj\Debug\net5.0\ParametrosDeTipo.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ParametrosDeTipo\obj\Debug\net5.0\ParametrosDeTipo.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ParametrosDeTipo\obj\Debug\net5.0\ParametrosDeTipo.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ParametrosDeTipo\bin\Debug\net5.0\ParametrosDeTipo.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ParametrosDeTipo\bin\Debug\net5.0\ParametrosDeTipo.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ParametrosDeTipo\bin\Debug\net5.0\ParametrosDeTipo.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ParametrosDeTipo\bin\Debug\net5.0\ParametrosDeTipo.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ParametrosDeTipo\bin\Debug\net5.0\ParametrosDeTipo.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ParametrosDeTipo\bin\Debug\net5.0\ref\ParametrosDeTipo.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ParametrosDeTipo\bin\Debug\net5.0\ParametrosDeTipo.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ParametrosDeTipo\obj\Debug\net5.0\ParametrosDeTipo.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ParametrosDeTipo\obj\Debug\net5.0\ref\ParametrosDeTipo.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ParametrosDeTipo\obj\Debug\net5.0\ParametrosDeTipo.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ParametrosDeTipo\obj\Debug\net5.0\ParametrosDeTipo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ForAninhado\bin\Debug\net5.0\ForAninhado.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ForAninhado\bin\Debug\net5.0\ForAninhado.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ForAninhado\bin\Debug\net5.0\ForAninhado.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ForAninhado\bin\Debug\net5.0\ForAninhado.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ForAninhado\bin\Debug\net5.0\ForAninhado.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ForAninhado\bin\Debug\net5.0\ref\ForAninhado.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ForAninhado\bin\Debug\net5.0\ForAninhado.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ForAninhado\obj\Debug\net5.0\ForAninhado.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ForAninhado\obj\Debug\net5.0\ForAninhado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ForAninhado\obj\Debug\net5.0\ForAninhado.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ForAninhado\obj\Debug\net5.0\ForAninhado.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ForAninhado\obj\Debug\net5.0\ForAninhado.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ForAninhado\obj\Debug\net5.0\ForAninhado.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ForAninhado\obj\Debug\net5.0\ref\ForAninhado.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ForAninhado\obj\Debug\net5.0\ForAninhado.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ForAninhado\obj\Debug\net5.0\ForAninhado.genruntimeconfig.cache

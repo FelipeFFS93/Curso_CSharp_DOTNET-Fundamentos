@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Enumerado\bin\Debug\net5.0\Enumerado.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Enumerado\bin\Debug\net5.0\Enumerado.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Enumerado\bin\Debug\net5.0\Enumerado.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Enumerado\bin\Debug\net5.0\Enumerado.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Enumerado\bin\Debug\net5.0\Enumerado.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Enumerado\bin\Debug\net5.0\ref\Enumerado.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Enumerado\bin\Debug\net5.0\Enumerado.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Enumerado\obj\Debug\net5.0\Enumerado.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Enumerado\obj\Debug\net5.0\Enumerado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Enumerado\obj\Debug\net5.0\Enumerado.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Enumerado\obj\Debug\net5.0\Enumerado.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Enumerado\obj\Debug\net5.0\Enumerado.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Enumerado\obj\Debug\net5.0\Enumerado.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Enumerado\obj\Debug\net5.0\ref\Enumerado.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Enumerado\obj\Debug\net5.0\Enumerado.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Enumerado\obj\Debug\net5.0\Enumerado.genruntimeconfig.cache

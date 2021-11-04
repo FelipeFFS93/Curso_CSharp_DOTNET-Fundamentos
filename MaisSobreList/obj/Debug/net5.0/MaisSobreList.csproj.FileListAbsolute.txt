@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MaisSobreList\bin\Debug\net5.0\MaisSobreList.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MaisSobreList\bin\Debug\net5.0\MaisSobreList.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MaisSobreList\bin\Debug\net5.0\MaisSobreList.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MaisSobreList\bin\Debug\net5.0\MaisSobreList.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MaisSobreList\bin\Debug\net5.0\MaisSobreList.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MaisSobreList\bin\Debug\net5.0\ref\MaisSobreList.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MaisSobreList\bin\Debug\net5.0\MaisSobreList.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MaisSobreList\obj\Debug\net5.0\MaisSobreList.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MaisSobreList\obj\Debug\net5.0\MaisSobreList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MaisSobreList\obj\Debug\net5.0\MaisSobreList.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MaisSobreList\obj\Debug\net5.0\MaisSobreList.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MaisSobreList\obj\Debug\net5.0\MaisSobreList.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MaisSobreList\obj\Debug\net5.0\MaisSobreList.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MaisSobreList\obj\Debug\net5.0\ref\MaisSobreList.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MaisSobreList\obj\Debug\net5.0\MaisSobreList.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MaisSobreList\obj\Debug\net5.0\MaisSobreList.genruntimeconfig.cache

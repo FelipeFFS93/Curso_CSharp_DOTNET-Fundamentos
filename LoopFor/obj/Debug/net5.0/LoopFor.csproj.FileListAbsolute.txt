@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\LoopFor\bin\Debug\net5.0\LoopFor.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\LoopFor\bin\Debug\net5.0\LoopFor.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\LoopFor\bin\Debug\net5.0\LoopFor.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\LoopFor\bin\Debug\net5.0\LoopFor.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\LoopFor\bin\Debug\net5.0\LoopFor.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\LoopFor\bin\Debug\net5.0\ref\LoopFor.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\LoopFor\bin\Debug\net5.0\LoopFor.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\LoopFor\obj\Debug\net5.0\LoopFor.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\LoopFor\obj\Debug\net5.0\LoopFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\LoopFor\obj\Debug\net5.0\LoopFor.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\LoopFor\obj\Debug\net5.0\LoopFor.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\LoopFor\obj\Debug\net5.0\LoopFor.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\LoopFor\obj\Debug\net5.0\LoopFor.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\LoopFor\obj\Debug\net5.0\ref\LoopFor.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\LoopFor\obj\Debug\net5.0\LoopFor.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\LoopFor\obj\Debug\net5.0\LoopFor.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\EntradaNumerica\bin\Debug\net5.0\EntradaNumerica.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\EntradaNumerica\bin\Debug\net5.0\EntradaNumerica.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\EntradaNumerica\bin\Debug\net5.0\EntradaNumerica.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\EntradaNumerica\bin\Debug\net5.0\EntradaNumerica.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\EntradaNumerica\bin\Debug\net5.0\EntradaNumerica.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\EntradaNumerica\bin\Debug\net5.0\ref\EntradaNumerica.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\EntradaNumerica\bin\Debug\net5.0\EntradaNumerica.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\EntradaNumerica\obj\Debug\net5.0\EntradaNumerica.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\EntradaNumerica\obj\Debug\net5.0\EntradaNumerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\EntradaNumerica\obj\Debug\net5.0\EntradaNumerica.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\EntradaNumerica\obj\Debug\net5.0\EntradaNumerica.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\EntradaNumerica\obj\Debug\net5.0\EntradaNumerica.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\EntradaNumerica\obj\Debug\net5.0\EntradaNumerica.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\EntradaNumerica\obj\Debug\net5.0\ref\EntradaNumerica.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\EntradaNumerica\obj\Debug\net5.0\EntradaNumerica.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\EntradaNumerica\obj\Debug\net5.0\EntradaNumerica.genruntimeconfig.cache

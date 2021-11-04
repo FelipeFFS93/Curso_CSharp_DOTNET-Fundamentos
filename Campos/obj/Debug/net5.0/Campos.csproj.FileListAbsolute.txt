@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Campos\bin\Debug\net5.0\Campos.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Campos\bin\Debug\net5.0\Campos.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Campos\bin\Debug\net5.0\Campos.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Campos\bin\Debug\net5.0\Campos.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Campos\bin\Debug\net5.0\Campos.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Campos\bin\Debug\net5.0\ref\Campos.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Campos\bin\Debug\net5.0\Campos.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Campos\obj\Debug\net5.0\Campos.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Campos\obj\Debug\net5.0\Campos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Campos\obj\Debug\net5.0\Campos.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Campos\obj\Debug\net5.0\Campos.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Campos\obj\Debug\net5.0\Campos.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Campos\obj\Debug\net5.0\Campos.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Campos\obj\Debug\net5.0\ref\Campos.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Campos\obj\Debug\net5.0\Campos.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Campos\obj\Debug\net5.0\Campos.genruntimeconfig.cache

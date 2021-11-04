@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaTutorial\bin\Debug\net5.0\ListaTutorial.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaTutorial\bin\Debug\net5.0\ListaTutorial.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaTutorial\bin\Debug\net5.0\ListaTutorial.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaTutorial\bin\Debug\net5.0\ListaTutorial.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaTutorial\bin\Debug\net5.0\ListaTutorial.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaTutorial\bin\Debug\net5.0\ref\ListaTutorial.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaTutorial\bin\Debug\net5.0\ListaTutorial.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaTutorial\obj\Debug\net5.0\ListaTutorial.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaTutorial\obj\Debug\net5.0\ListaTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaTutorial\obj\Debug\net5.0\ListaTutorial.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaTutorial\obj\Debug\net5.0\ListaTutorial.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaTutorial\obj\Debug\net5.0\ListaTutorial.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaTutorial\obj\Debug\net5.0\ListaTutorial.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaTutorial\obj\Debug\net5.0\ref\ListaTutorial.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaTutorial\obj\Debug\net5.0\ListaTutorial.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaTutorial\obj\Debug\net5.0\ListaTutorial.genruntimeconfig.cache

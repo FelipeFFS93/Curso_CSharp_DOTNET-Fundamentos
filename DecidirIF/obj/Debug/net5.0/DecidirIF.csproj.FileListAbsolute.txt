@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirIF\bin\Debug\net5.0\DecidirIF.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirIF\bin\Debug\net5.0\DecidirIF.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirIF\bin\Debug\net5.0\DecidirIF.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirIF\bin\Debug\net5.0\DecidirIF.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirIF\bin\Debug\net5.0\DecidirIF.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirIF\bin\Debug\net5.0\ref\DecidirIF.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirIF\bin\Debug\net5.0\DecidirIF.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirIF\obj\Debug\net5.0\DecidirIF.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirIF\obj\Debug\net5.0\DecidirIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirIF\obj\Debug\net5.0\DecidirIF.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirIF\obj\Debug\net5.0\DecidirIF.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirIF\obj\Debug\net5.0\DecidirIF.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirIF\obj\Debug\net5.0\DecidirIF.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirIF\obj\Debug\net5.0\ref\DecidirIF.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirIF\obj\Debug\net5.0\DecidirIF.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirIF\obj\Debug\net5.0\DecidirIF.genruntimeconfig.cache

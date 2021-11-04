@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\VerificarIf\bin\Debug\net5.0\VerificarIf.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\VerificarIf\bin\Debug\net5.0\VerificarIf.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\VerificarIf\bin\Debug\net5.0\VerificarIf.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\VerificarIf\bin\Debug\net5.0\VerificarIf.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\VerificarIf\bin\Debug\net5.0\VerificarIf.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\VerificarIf\bin\Debug\net5.0\ref\VerificarIf.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\VerificarIf\bin\Debug\net5.0\VerificarIf.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\VerificarIf\obj\Debug\net5.0\VerificarIf.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\VerificarIf\obj\Debug\net5.0\VerificarIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\VerificarIf\obj\Debug\net5.0\VerificarIf.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\VerificarIf\obj\Debug\net5.0\VerificarIf.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\VerificarIf\obj\Debug\net5.0\VerificarIf.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\VerificarIf\obj\Debug\net5.0\VerificarIf.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\VerificarIf\obj\Debug\net5.0\ref\VerificarIf.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\VerificarIf\obj\Debug\net5.0\VerificarIf.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\VerificarIf\obj\Debug\net5.0\VerificarIf.genruntimeconfig.cache

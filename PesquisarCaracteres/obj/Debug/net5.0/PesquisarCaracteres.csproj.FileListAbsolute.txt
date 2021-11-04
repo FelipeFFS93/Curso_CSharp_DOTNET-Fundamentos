@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\PesquisarCaracteres\bin\Debug\net5.0\PesquisarCaracteres.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\PesquisarCaracteres\bin\Debug\net5.0\PesquisarCaracteres.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\PesquisarCaracteres\bin\Debug\net5.0\PesquisarCaracteres.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\PesquisarCaracteres\bin\Debug\net5.0\PesquisarCaracteres.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\PesquisarCaracteres\bin\Debug\net5.0\PesquisarCaracteres.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\PesquisarCaracteres\bin\Debug\net5.0\ref\PesquisarCaracteres.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\PesquisarCaracteres\bin\Debug\net5.0\PesquisarCaracteres.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\PesquisarCaracteres\obj\Debug\net5.0\PesquisarCaracteres.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\PesquisarCaracteres\obj\Debug\net5.0\PesquisarCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\PesquisarCaracteres\obj\Debug\net5.0\PesquisarCaracteres.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\PesquisarCaracteres\obj\Debug\net5.0\PesquisarCaracteres.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\PesquisarCaracteres\obj\Debug\net5.0\PesquisarCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\PesquisarCaracteres\obj\Debug\net5.0\PesquisarCaracteres.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\PesquisarCaracteres\obj\Debug\net5.0\ref\PesquisarCaracteres.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\PesquisarCaracteres\obj\Debug\net5.0\PesquisarCaracteres.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\PesquisarCaracteres\obj\Debug\net5.0\PesquisarCaracteres.genruntimeconfig.cache

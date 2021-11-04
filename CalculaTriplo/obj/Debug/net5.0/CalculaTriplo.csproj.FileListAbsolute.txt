@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaTriplo\bin\Debug\net5.0\CalculaTriplo.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaTriplo\bin\Debug\net5.0\CalculaTriplo.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaTriplo\bin\Debug\net5.0\CalculaTriplo.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaTriplo\bin\Debug\net5.0\CalculaTriplo.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaTriplo\bin\Debug\net5.0\CalculaTriplo.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaTriplo\bin\Debug\net5.0\ref\CalculaTriplo.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaTriplo\bin\Debug\net5.0\CalculaTriplo.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaTriplo\obj\Debug\net5.0\CalculaTriplo.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaTriplo\obj\Debug\net5.0\CalculaTriplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaTriplo\obj\Debug\net5.0\CalculaTriplo.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaTriplo\obj\Debug\net5.0\CalculaTriplo.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaTriplo\obj\Debug\net5.0\CalculaTriplo.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaTriplo\obj\Debug\net5.0\CalculaTriplo.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaTriplo\obj\Debug\net5.0\ref\CalculaTriplo.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaTriplo\obj\Debug\net5.0\CalculaTriplo.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaTriplo\obj\Debug\net5.0\CalculaTriplo.genruntimeconfig.cache

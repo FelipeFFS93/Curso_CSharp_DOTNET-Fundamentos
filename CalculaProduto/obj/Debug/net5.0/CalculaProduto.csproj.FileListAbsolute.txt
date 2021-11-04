@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaProduto\bin\Debug\net5.0\CalculaProduto.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaProduto\bin\Debug\net5.0\CalculaProduto.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaProduto\bin\Debug\net5.0\CalculaProduto.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaProduto\bin\Debug\net5.0\CalculaProduto.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaProduto\bin\Debug\net5.0\CalculaProduto.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaProduto\bin\Debug\net5.0\ref\CalculaProduto.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaProduto\bin\Debug\net5.0\CalculaProduto.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaProduto\obj\Debug\net5.0\CalculaProduto.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaProduto\obj\Debug\net5.0\CalculaProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaProduto\obj\Debug\net5.0\CalculaProduto.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaProduto\obj\Debug\net5.0\CalculaProduto.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaProduto\obj\Debug\net5.0\CalculaProduto.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaProduto\obj\Debug\net5.0\CalculaProduto.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaProduto\obj\Debug\net5.0\ref\CalculaProduto.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaProduto\obj\Debug\net5.0\CalculaProduto.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CalculaProduto\obj\Debug\net5.0\CalculaProduto.genruntimeconfig.cache

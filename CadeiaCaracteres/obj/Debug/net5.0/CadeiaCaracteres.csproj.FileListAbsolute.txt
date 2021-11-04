@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CadeiaCaracteres\bin\Debug\net5.0\CadeiaCaracteres.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CadeiaCaracteres\bin\Debug\net5.0\CadeiaCaracteres.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CadeiaCaracteres\bin\Debug\net5.0\CadeiaCaracteres.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CadeiaCaracteres\bin\Debug\net5.0\CadeiaCaracteres.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CadeiaCaracteres\bin\Debug\net5.0\CadeiaCaracteres.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CadeiaCaracteres\bin\Debug\net5.0\ref\CadeiaCaracteres.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CadeiaCaracteres\bin\Debug\net5.0\CadeiaCaracteres.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CadeiaCaracteres\obj\Debug\net5.0\CadeiaCaracteres.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CadeiaCaracteres\obj\Debug\net5.0\CadeiaCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CadeiaCaracteres\obj\Debug\net5.0\CadeiaCaracteres.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CadeiaCaracteres\obj\Debug\net5.0\CadeiaCaracteres.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CadeiaCaracteres\obj\Debug\net5.0\CadeiaCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CadeiaCaracteres\obj\Debug\net5.0\CadeiaCaracteres.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CadeiaCaracteres\obj\Debug\net5.0\ref\CadeiaCaracteres.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CadeiaCaracteres\obj\Debug\net5.0\CadeiaCaracteres.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\CadeiaCaracteres\obj\Debug\net5.0\CadeiaCaracteres.genruntimeconfig.cache

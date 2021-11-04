@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaDeOutrosTipos\obj\Debug\net5.0\ListaDeOutrosTipos.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaDeOutrosTipos\obj\Debug\net5.0\ListaDeOutrosTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaDeOutrosTipos\obj\Debug\net5.0\ListaDeOutrosTipos.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaDeOutrosTipos\obj\Debug\net5.0\ListaDeOutrosTipos.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaDeOutrosTipos\obj\Debug\net5.0\ListaDeOutrosTipos.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaDeOutrosTipos\bin\Debug\net5.0\ListaDeOutrosTipos.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaDeOutrosTipos\bin\Debug\net5.0\ListaDeOutrosTipos.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaDeOutrosTipos\bin\Debug\net5.0\ListaDeOutrosTipos.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaDeOutrosTipos\bin\Debug\net5.0\ListaDeOutrosTipos.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaDeOutrosTipos\bin\Debug\net5.0\ListaDeOutrosTipos.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaDeOutrosTipos\bin\Debug\net5.0\ref\ListaDeOutrosTipos.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaDeOutrosTipos\bin\Debug\net5.0\ListaDeOutrosTipos.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaDeOutrosTipos\obj\Debug\net5.0\ListaDeOutrosTipos.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaDeOutrosTipos\obj\Debug\net5.0\ref\ListaDeOutrosTipos.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaDeOutrosTipos\obj\Debug\net5.0\ListaDeOutrosTipos.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\ListaDeOutrosTipos\obj\Debug\net5.0\ListaDeOutrosTipos.genruntimeconfig.cache

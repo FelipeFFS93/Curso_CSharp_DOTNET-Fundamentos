@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirERepetir\bin\Debug\net5.0\DecidirERepetir.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirERepetir\bin\Debug\net5.0\DecidirERepetir.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirERepetir\bin\Debug\net5.0\DecidirERepetir.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirERepetir\bin\Debug\net5.0\DecidirERepetir.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirERepetir\bin\Debug\net5.0\DecidirERepetir.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirERepetir\bin\Debug\net5.0\ref\DecidirERepetir.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirERepetir\bin\Debug\net5.0\DecidirERepetir.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirERepetir\obj\Debug\net5.0\DecidirERepetir.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirERepetir\obj\Debug\net5.0\DecidirERepetir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirERepetir\obj\Debug\net5.0\DecidirERepetir.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirERepetir\obj\Debug\net5.0\DecidirERepetir.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirERepetir\obj\Debug\net5.0\DecidirERepetir.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirERepetir\obj\Debug\net5.0\DecidirERepetir.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirERepetir\obj\Debug\net5.0\ref\DecidirERepetir.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirERepetir\obj\Debug\net5.0\DecidirERepetir.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DecidirERepetir\obj\Debug\net5.0\DecidirERepetir.genruntimeconfig.cache

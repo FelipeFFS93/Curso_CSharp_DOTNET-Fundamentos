@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Anulaveis\obj\Debug\net5.0\Anulaveis.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Anulaveis\obj\Debug\net5.0\Anulaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Anulaveis\obj\Debug\net5.0\Anulaveis.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Anulaveis\obj\Debug\net5.0\Anulaveis.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Anulaveis\obj\Debug\net5.0\Anulaveis.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Anulaveis\bin\Debug\net5.0\Anulaveis.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Anulaveis\bin\Debug\net5.0\Anulaveis.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Anulaveis\bin\Debug\net5.0\Anulaveis.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Anulaveis\bin\Debug\net5.0\Anulaveis.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Anulaveis\bin\Debug\net5.0\Anulaveis.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Anulaveis\bin\Debug\net5.0\ref\Anulaveis.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Anulaveis\bin\Debug\net5.0\Anulaveis.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Anulaveis\obj\Debug\net5.0\Anulaveis.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Anulaveis\obj\Debug\net5.0\ref\Anulaveis.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Anulaveis\obj\Debug\net5.0\Anulaveis.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Anulaveis\obj\Debug\net5.0\Anulaveis.genruntimeconfig.cache
