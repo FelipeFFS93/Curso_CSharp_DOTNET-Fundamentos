@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametros\bin\Debug\net5.0\MetodosParametros.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametros\bin\Debug\net5.0\MetodosParametros.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametros\bin\Debug\net5.0\MetodosParametros.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametros\bin\Debug\net5.0\MetodosParametros.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametros\bin\Debug\net5.0\MetodosParametros.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametros\bin\Debug\net5.0\ref\MetodosParametros.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametros\bin\Debug\net5.0\MetodosParametros.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametros\obj\Debug\net5.0\MetodosParametros.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametros\obj\Debug\net5.0\MetodosParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametros\obj\Debug\net5.0\MetodosParametros.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametros\obj\Debug\net5.0\MetodosParametros.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametros\obj\Debug\net5.0\MetodosParametros.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametros\obj\Debug\net5.0\MetodosParametros.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametros\obj\Debug\net5.0\ref\MetodosParametros.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametros\obj\Debug\net5.0\MetodosParametros.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametros\obj\Debug\net5.0\MetodosParametros.genruntimeconfig.cache

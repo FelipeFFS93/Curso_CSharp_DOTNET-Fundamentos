@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OutrosMembrosDeFuncao\obj\Debug\net5.0\OutrosMembrosDeFuncao.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OutrosMembrosDeFuncao\obj\Debug\net5.0\OutrosMembrosDeFuncao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OutrosMembrosDeFuncao\obj\Debug\net5.0\OutrosMembrosDeFuncao.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OutrosMembrosDeFuncao\obj\Debug\net5.0\OutrosMembrosDeFuncao.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OutrosMembrosDeFuncao\obj\Debug\net5.0\OutrosMembrosDeFuncao.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OutrosMembrosDeFuncao\bin\Debug\net5.0\OutrosMembrosDeFuncao.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OutrosMembrosDeFuncao\bin\Debug\net5.0\OutrosMembrosDeFuncao.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OutrosMembrosDeFuncao\bin\Debug\net5.0\OutrosMembrosDeFuncao.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OutrosMembrosDeFuncao\bin\Debug\net5.0\OutrosMembrosDeFuncao.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OutrosMembrosDeFuncao\bin\Debug\net5.0\OutrosMembrosDeFuncao.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OutrosMembrosDeFuncao\bin\Debug\net5.0\ref\OutrosMembrosDeFuncao.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OutrosMembrosDeFuncao\bin\Debug\net5.0\OutrosMembrosDeFuncao.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OutrosMembrosDeFuncao\obj\Debug\net5.0\OutrosMembrosDeFuncao.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OutrosMembrosDeFuncao\obj\Debug\net5.0\ref\OutrosMembrosDeFuncao.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OutrosMembrosDeFuncao\obj\Debug\net5.0\OutrosMembrosDeFuncao.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\OutrosMembrosDeFuncao\obj\Debug\net5.0\OutrosMembrosDeFuncao.genruntimeconfig.cache

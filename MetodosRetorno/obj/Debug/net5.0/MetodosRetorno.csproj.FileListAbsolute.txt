@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosRetorno\obj\Debug\net5.0\MetodosRetorno.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosRetorno\obj\Debug\net5.0\MetodosRetorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosRetorno\obj\Debug\net5.0\MetodosRetorno.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosRetorno\obj\Debug\net5.0\MetodosRetorno.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosRetorno\obj\Debug\net5.0\MetodosRetorno.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosRetorno\bin\Debug\net5.0\MetodosRetorno.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosRetorno\bin\Debug\net5.0\MetodosRetorno.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosRetorno\bin\Debug\net5.0\MetodosRetorno.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosRetorno\bin\Debug\net5.0\MetodosRetorno.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosRetorno\bin\Debug\net5.0\MetodosRetorno.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosRetorno\bin\Debug\net5.0\ref\MetodosRetorno.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosRetorno\bin\Debug\net5.0\MetodosRetorno.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosRetorno\obj\Debug\net5.0\MetodosRetorno.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosRetorno\obj\Debug\net5.0\ref\MetodosRetorno.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosRetorno\obj\Debug\net5.0\MetodosRetorno.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosRetorno\obj\Debug\net5.0\MetodosRetorno.genruntimeconfig.cache

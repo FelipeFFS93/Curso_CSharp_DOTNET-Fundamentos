@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosAVS\bin\Debug\net5.0\MetodosAVS.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosAVS\bin\Debug\net5.0\MetodosAVS.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosAVS\bin\Debug\net5.0\MetodosAVS.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosAVS\bin\Debug\net5.0\MetodosAVS.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosAVS\bin\Debug\net5.0\MetodosAVS.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosAVS\bin\Debug\net5.0\ref\MetodosAVS.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosAVS\bin\Debug\net5.0\MetodosAVS.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosAVS\obj\Debug\net5.0\MetodosAVS.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosAVS\obj\Debug\net5.0\MetodosAVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosAVS\obj\Debug\net5.0\MetodosAVS.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosAVS\obj\Debug\net5.0\MetodosAVS.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosAVS\obj\Debug\net5.0\MetodosAVS.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosAVS\obj\Debug\net5.0\MetodosAVS.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosAVS\obj\Debug\net5.0\ref\MetodosAVS.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosAVS\obj\Debug\net5.0\MetodosAVS.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosAVS\obj\Debug\net5.0\MetodosAVS.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametrosSaida\bin\Debug\net5.0\MetodosParametrosSaida.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametrosSaida\bin\Debug\net5.0\MetodosParametrosSaida.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametrosSaida\bin\Debug\net5.0\MetodosParametrosSaida.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametrosSaida\bin\Debug\net5.0\MetodosParametrosSaida.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametrosSaida\bin\Debug\net5.0\MetodosParametrosSaida.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametrosSaida\bin\Debug\net5.0\ref\MetodosParametrosSaida.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametrosSaida\bin\Debug\net5.0\MetodosParametrosSaida.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametrosSaida\obj\Debug\net5.0\MetodosParametrosSaida.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametrosSaida\obj\Debug\net5.0\MetodosParametrosSaida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametrosSaida\obj\Debug\net5.0\MetodosParametrosSaida.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametrosSaida\obj\Debug\net5.0\MetodosParametrosSaida.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametrosSaida\obj\Debug\net5.0\MetodosParametrosSaida.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametrosSaida\obj\Debug\net5.0\MetodosParametrosSaida.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametrosSaida\obj\Debug\net5.0\ref\MetodosParametrosSaida.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametrosSaida\obj\Debug\net5.0\MetodosParametrosSaida.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosParametrosSaida\obj\Debug\net5.0\MetodosParametrosSaida.genruntimeconfig.cache

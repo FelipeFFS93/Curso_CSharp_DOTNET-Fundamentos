@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosArrayParametros\bin\Debug\net5.0\MetodosArrayParametros.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosArrayParametros\bin\Debug\net5.0\MetodosArrayParametros.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosArrayParametros\bin\Debug\net5.0\MetodosArrayParametros.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosArrayParametros\bin\Debug\net5.0\MetodosArrayParametros.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosArrayParametros\bin\Debug\net5.0\MetodosArrayParametros.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosArrayParametros\bin\Debug\net5.0\ref\MetodosArrayParametros.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosArrayParametros\bin\Debug\net5.0\MetodosArrayParametros.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosArrayParametros\obj\Debug\net5.0\MetodosArrayParametros.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosArrayParametros\obj\Debug\net5.0\MetodosArrayParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosArrayParametros\obj\Debug\net5.0\MetodosArrayParametros.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosArrayParametros\obj\Debug\net5.0\MetodosArrayParametros.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosArrayParametros\obj\Debug\net5.0\MetodosArrayParametros.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosArrayParametros\obj\Debug\net5.0\MetodosArrayParametros.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosArrayParametros\obj\Debug\net5.0\ref\MetodosArrayParametros.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosArrayParametros\obj\Debug\net5.0\MetodosArrayParametros.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\MetodosArrayParametros\obj\Debug\net5.0\MetodosArrayParametros.genruntimeconfig.cache
