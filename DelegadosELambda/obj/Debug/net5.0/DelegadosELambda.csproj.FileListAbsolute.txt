@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DelegadosELambda\bin\Debug\net5.0\DelegadosELambda.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DelegadosELambda\bin\Debug\net5.0\DelegadosELambda.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DelegadosELambda\bin\Debug\net5.0\DelegadosELambda.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DelegadosELambda\bin\Debug\net5.0\DelegadosELambda.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DelegadosELambda\bin\Debug\net5.0\DelegadosELambda.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DelegadosELambda\bin\Debug\net5.0\ref\DelegadosELambda.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DelegadosELambda\bin\Debug\net5.0\DelegadosELambda.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DelegadosELambda\obj\Debug\net5.0\DelegadosELambda.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DelegadosELambda\obj\Debug\net5.0\DelegadosELambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DelegadosELambda\obj\Debug\net5.0\DelegadosELambda.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DelegadosELambda\obj\Debug\net5.0\DelegadosELambda.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DelegadosELambda\obj\Debug\net5.0\DelegadosELambda.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DelegadosELambda\obj\Debug\net5.0\DelegadosELambda.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DelegadosELambda\obj\Debug\net5.0\ref\DelegadosELambda.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DelegadosELambda\obj\Debug\net5.0\DelegadosELambda.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\DelegadosELambda\obj\Debug\net5.0\DelegadosELambda.genruntimeconfig.cache

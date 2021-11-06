@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Corresponder\obj\Debug\net5.0\Corresponder.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Corresponder\obj\Debug\net5.0\Corresponder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Corresponder\obj\Debug\net5.0\Corresponder.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Corresponder\obj\Debug\net5.0\Corresponder.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Corresponder\obj\Debug\net5.0\Corresponder.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Corresponder\bin\Debug\net5.0\Corresponder.exe
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Corresponder\bin\Debug\net5.0\Corresponder.deps.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Corresponder\bin\Debug\net5.0\Corresponder.runtimeconfig.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Corresponder\bin\Debug\net5.0\Corresponder.runtimeconfig.dev.json
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Corresponder\bin\Debug\net5.0\Corresponder.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Corresponder\bin\Debug\net5.0\ref\Corresponder.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Corresponder\bin\Debug\net5.0\Corresponder.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Corresponder\obj\Debug\net5.0\Corresponder.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Corresponder\obj\Debug\net5.0\ref\Corresponder.dll
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Corresponder\obj\Debug\net5.0\Corresponder.pdb
+C:\Users\felip\Desktop\C#.NET REFERENCIA\Corresponder\obj\Debug\net5.0\Corresponder.genruntimeconfig.cache
